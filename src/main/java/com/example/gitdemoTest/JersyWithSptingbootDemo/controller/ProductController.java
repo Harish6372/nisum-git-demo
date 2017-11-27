@@ -1,5 +1,6 @@
 package com.example.gitdemoTest.JersyWithSptingbootDemo.controller;
 
 public class ProductController {
+  System.out.println("data from remote");
 
 }
